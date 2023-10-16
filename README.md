@@ -1,16 +1,26 @@
-# remake_tsiro
 
-A new Flutter project.
+## **Flutter Tsiro**
 
-## Getting Started
+A Flutter recipe app.
 
-This project is a starting point for a Flutter application.
+### **Description**
 
-A few resources to get you started if this is your first Flutter project:
+Flutter Tsiro is a Flutter recipe app that allows users to browse, search, and save recipes. Users can also create their own recipes and add them to their collection. The app features a clean and user-friendly interface, making it easy for users to find and cook their favorite recipes.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### **Commands to run the app**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run the Flutter Tsiro app, you will need to have Flutter installed on your machine. Once you have Flutter installed, you can clone the Flutter Tsiro repository and run the following commands:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/flutter_tsiro.git
+
+# Navigate to the repository
+cd flutter_tsiro
+
+# Install the dependencies
+flutter pub get
+
+# Run the app
+flutter run
+```
