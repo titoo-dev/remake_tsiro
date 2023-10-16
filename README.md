@@ -24,3 +24,9 @@ flutter pub get
 # Run the app
 flutter run
 ```
+
+![image](https://github.com/titoo-dev/remake_tsiro/assets/75468986/cb569c4f-6ab1-4308-8b02-3d333333c163)
+![image](https://github.com/titoo-dev/remake_tsiro/assets/75468986/c69ae3ad-1a7f-4b33-8440-1dd057bc0167)
+![image](https://github.com/titoo-dev/remake_tsiro/assets/75468986/8fee8cd1-4b9e-49b7-8d93-6c278205748e)
+
+
